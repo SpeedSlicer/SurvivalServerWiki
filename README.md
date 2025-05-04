@@ -1,6 +1,7 @@
 
 
 **Made by SpeedSlicer**
+
 Contribute Here: [Github](https://github.com/SpeedSlicer/SurvivalServerWiki/)
 
 [Changelog](docs/changelog.md)
