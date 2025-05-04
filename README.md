@@ -1,2 +1,2 @@
 # Welcome to the Survival Server Wiki
-Start
+so epic
